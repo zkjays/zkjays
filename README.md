@@ -10,7 +10,13 @@
 
 <!-- Self-hosted stats: added once the private github-readme-stats instance is deployed on Vercel. -->
 
-<!-- Contribution snake: added once .github/workflows/snake.yml has a successful run and the output branch exists. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zkjays/zkjays/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zkjays/zkjays/output/github-snake.svg">
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/zkjays/zkjays/output/github-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <a href="https://x.com/zkjays">
